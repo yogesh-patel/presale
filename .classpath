@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/disruptor-3.2.1.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/gs-collections-5.1.0.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/gs-collections-api-5.1.0.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/imap-1.4.7.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/jackson-annotations-2.5.1.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/jackson-core-2.5.1.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/jackson-databind-2.5.1.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/javax.mail-api-1.4.7.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/jsr166e-1.0.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/mailapi-1.4.7.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/reactor-core-1.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/spring-aop-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/spring-beans-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/spring-context-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/spring-context-support-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/spring-core-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/spring-expression-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/spring-integration-core-4.1.0.RC1.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/spring-integration-mail-4.1.0.RC1.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/spring-messaging-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/spring-retry-1.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/spring-tx-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/spring-web-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/spring-webmvc-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="output" path="webapp/WEB-INF/classes"/>
+</classpath>
