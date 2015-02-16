@@ -16,7 +16,10 @@ public class InboundMailHandler {
 			try {
 				System.out.println(mailMessage.getSubject());
 				System.out.println(mailMessage.getSender());
-				System.out.println(mailMessage.getReplyTo());
+				System.out.println(mailMessage.getContentType());
+				System.out.println(mailMessage.getFrom()[0]);
+				System.out.println(mailMessage.getReplyTo()[0]);
+				System.out.println(mailMessage.getAllRecipients());
 			} catch (Throwable t) {
 
 			}
